@@ -60,6 +60,13 @@ ul {
             text-align: center;
         }
 
+        .info3 {
+            font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+            font-size: 25px;
+            color: black;
+            text-align: center;
+        }
+
         .join {
             margin-left: 45%;
             font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
@@ -115,5 +122,5 @@ ul {
         .woman {
             height: 400px;
             width: 400px;
-            margin-left: 30%;
+            margin-left: 35%;
         }
