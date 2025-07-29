@@ -1,0 +1,101 @@
+ body{
+            background-image: url("crumpled-paper-114.jpg");
+            background-repeat: no-repeat;
+            background-size: 300%;
+        }
+
+    ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        background-color: black;
+        display: flex;
+        justify-content: center;
+        }
+        
+        li {
+        text-align: center;
+        }
+        
+        li a {
+        display: block;
+        color: white;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+        font-family: fantasy;
+        }
+        
+        li a:hover {
+        background-color:red;
+        }
+
+        .head1 {
+            color: black;
+            font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+            float: right;
+            margin-right: 37%;
+            font-size: 30px;
+        }
+
+        .homey {
+            width: 900px;
+            height: 590px;
+            justify-content: center;
+            margin-left: 15%;
+        }
+
+        .logo {
+            width: 800px;
+            height: 400px;
+            float: center;
+            margin-left: 18%;
+        }
+
+        .info {
+            font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+            font-size: 25px;
+            text-align: center;
+            margin-left: 10%;
+        }
+
+        .info2 {
+            font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+            font-size: 25px;
+            text-align: center;
+            margin-left: 26%;
+        }
+
+       .info3 {
+            font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+            font-size: 15px;
+            text-align: center;
+            margin-left: 15%;
+        }
+
+        .join {
+            margin-left: 45%;
+            font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+            font-size: 15px;
+        }
+
+    
+    
+        .clothes {
+            margin-left: 44%;
+            
+            
+        }
+
+        .clothes2 {
+            margin-right: 44%;
+            
+            
+        }
+
+        .copyright {
+            text-align: right; 
+            font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;         
+            margin-left: 45%;
+        }
